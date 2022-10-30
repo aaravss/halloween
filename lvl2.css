@@ -1,0 +1,25 @@
+body{
+    background-image: url(http://wallpaperset.com/w/full/0/d/9/389812.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+h1{
+    background-color: aliceblue;
+    width: 200px;
+}
+
+h2{
+    background-color: aliceblue;
+    width: 1000px;
+} 
+
+#myCanvas{
+    background-color: white;
+    border-radius: 15px;
+    border-style: ridge;
+    border-width: 10px;
+    border-color: orange;
+}
